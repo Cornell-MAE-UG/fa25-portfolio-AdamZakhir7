@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/Zakhir_Adam_Resume.pdf" | relative_url }}) in PDF format.
 
 
 **Email:** [mm3559@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +1 (607)-379 5230
