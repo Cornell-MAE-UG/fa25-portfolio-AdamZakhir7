@@ -6,7 +6,7 @@ title: Adam Zakhir
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/images/Profile%20Photo.png" | relative_url }}){: class="profile-image"}
 
 My name is Adam Zakhir and I am a sophmore student in the College of Engineering. I love soccer and going on runs.
 
