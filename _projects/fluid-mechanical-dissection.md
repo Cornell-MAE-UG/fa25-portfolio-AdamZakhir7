@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: project
 title: Fluid-Mechanical Dissection
-permalink: /fluid-mechanical-dissection/
+description: Fluid mechanics project
+image: /assets/images/CoverImage2.png
+permalink: /projects/fluid-mechanical-dissection/
 ---
 
 # Fluid-Mechanical Dissection
