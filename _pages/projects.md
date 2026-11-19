@@ -4,13 +4,16 @@ title: Adam Zakhir - Portfolio
 permalink: /projects/
 ---
 
-{% for project in site.projects %}
-  {% if project.title == "Fluid-Mechanical Dissection" %}
-  <div class="project-card">
-    <a href="{{ project.url | relative_url }}" style="color: #222; text-decoration: none;">
-      <h2>{{ project.title }}</h2>
-    </a>
-    <p>{{ project.description }}</p>
-  </div>
-  {% endif %}
-{% endfor %}
+<h1 style="text-align: center;">My Projects</h1>
+
+<div style="text-align: center; margin: 40px 0;">
+  <a href="{{ '/projects/mae3230/' | relative_url }}"
+     style="display: inline-block; padding: 20px 40px; margin: 15px; background: #383f59; color: white; border-radius: 10px; text-decoration: none; font-size: 22px;">
+    MAE 3230
+  </a>
+
+  <a href="{{ '/projects/mae3270/' | relative_url }}"
+     style="display: inline-block; padding: 20px 40px; margin: 15px; background: #383f59; color: white; border-radius: 10px; text-decoration: none; font-size: 22px;">
+    MAE 3270
+  </a>
+</div>
