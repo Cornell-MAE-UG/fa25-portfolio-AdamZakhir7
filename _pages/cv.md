@@ -5,8 +5,7 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/Zakhir_Adam_Resume.pdf" | relative_url }}) in PDF format.
-
+[Download]({{ "/assets/Zakhir_Adam_Resume.pdf" | relative_url }}) my CV in PDF format.
 
 **Email:** [mm3559@cornell.edu](mailto:mm3559@cornell.edu)
 
