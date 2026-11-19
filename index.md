@@ -12,4 +12,4 @@ My name is Adam Zakhir and I am a Junior at Cornell studying Mechanical Engineer
 
 Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
 
-<div style="clear: both; height: 5px;"></div>
+<div style="clear: both; height: 2px;"></div>
